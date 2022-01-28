@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "lastname": "Muller",
+      "firstname": "Graham",
+      "country": "de"
+    },
+    {
+      "lastname": "Murgh",
+      "firstname": "Ellis",
+      "country": "ru"
+    },
+    {
+      "lastname": "Muesli",
+      "firstname": "Peterrson",
+      "country": "ru"
+    },
+    {
+      "lastname": "Murink",
+      "firstname": "Edward",
+      "country": "de"
+    },
+    {
+      "lastname": "Musuf",
+      "firstname": "Arnold",
+      "country": "de"
+    },
+    {
+      "lastname": "Santori",
+      "firstname": "Oliver",
+      "country": "ru"
+    },
+    {
+      "lastname": "Zuzi",
+      "firstname": "Elvis",
+      "country": "de"
+    }
+  ]
+}

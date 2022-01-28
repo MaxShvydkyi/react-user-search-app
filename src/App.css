@@ -1,0 +1,72 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 10px;
+  vertical-align: baseline;
+  font-family: Helvetica, sans-serif;
+}
+
+.loginForm {
+  border: 1px solid #d3d3d3;
+  width: 320px;
+  padding: 20px;
+  margin: 0 auto;
+}
+.loginForm > label {
+  display: inline-block;
+  padding-bottom: 8px;
+  font-size: 2rem;
+}
+.loginForm > input,
+.countrySelect {
+  width: 100%;
+  height: 30px;
+  box-sizing: border-box;
+}
+.loginButton {
+  width: 100%;
+  height: 40px;
+  margin-top: 16px;
+  cursor: pointer;
+
+  background-color: #215faa;
+  color: #ffffff;
+}
+.loginButton[disabled] {
+  opacity: 0.6;
+}
+.pageContainter {
+  margin: auto;
+  width: 800px;
+  padding-top: 2rem;
+}
+.userTable {
+  width: 100%;
+}
+.userTable tr th {
+  font-size: 2rem;
+  user-select: none;
+}
+.userTable tr td {
+  border: 1px solid #d3d3d3;
+  padding: 4px 8px;
+  font-size: 1.4rem;
+}
+.sortButton {
+  cursor: pointer;
+  font-size: 1.6rem;
+  margin-left: 8px;
+  user-select: none;
+}
+
+.search {
+  margin-bottom: 16px;
+  padding: 4px 8px;
+}
+
+.topRow {
+  display: flex;
+  justify-content: space-between;
+}
